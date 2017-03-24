@@ -7,5 +7,6 @@ public class Haupt {
 		System.out.println("Durcheinander:");
 		Desk desk = new Desk();
 		System.out.println(desk.getDescription());
+		//funzt nur bei Kevin nicht
 	} // main()
 } // class
