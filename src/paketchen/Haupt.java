@@ -6,7 +6,6 @@ public class Haupt {
 		System.out.println("Allerlei");
 		Desk desk = new Desk();
 		System.out.println(desk.getDescription());
-		Random rng = new Random();
-		System.out.println(rng.nextInt());
+		System.out.println("Hallooo...")
 	} // main()
 } // class
