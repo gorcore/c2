@@ -13,5 +13,6 @@ public class Haupt {
 		//funzt nur bei Kevin nicht
 
 		System.out.println("Moin moin");
+		System.out.println("Ciao");
 	} // main()
 } // class
