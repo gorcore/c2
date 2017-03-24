@@ -7,6 +7,6 @@ public class Haupt {
 		System.out.println("Durcheinander:");
 		Desk desk = new Desk();
 		System.out.println(desk.getDescription());
-		System.out.println("Hallooo...")
+		System.out.println("Hallooo...");
 	} // main()
 } // class
