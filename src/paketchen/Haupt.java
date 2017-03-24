@@ -17,6 +17,6 @@ public class Haupt {
 
 		System.out.println("Moin moin");
 		System.out.println("Ciao");
-		System.exit(2);
+		System.exit(3);
 	} // main()
 } // class
