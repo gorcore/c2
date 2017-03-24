@@ -9,5 +9,11 @@ public class Haupt {
 		// Noch ein Gedicht.
 		Desk desk = new Desk();
 		System.out.println(desk.getDescription());
+
+		System.out.println("Hallooo...");
+
+		//funzt nur bei Kevin nicht
+
+		System.out.println("Moin moin");
 	} // main()
 } // class
